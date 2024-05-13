@@ -1,0 +1,38 @@
+/* style.css */
+
+/* Styles for the success page */
+.card {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #6c757d;
+}
+
+/* Additional styles for the scheduling page */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style for the error message alert */
+.alert {
+    margin-bottom: 20px;
+}
+
+/* Style for the datepicker input */
+.datepicker {
+    width: 100%;
+}
